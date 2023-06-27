@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=VDU Examples ReadMe
+Comment=VDU Examples ReadMe Document
+Exec=l3afpad /usr/bin/VDU-Examples-ReadMe.txt
+Icon=l3afpad
+Terminal=false
+Categories=GTK;Utility;TextEditor;
+StartupNotify=true
